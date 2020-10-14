@@ -1,4 +1,25 @@
 .tooltip{
     position: fixed;
     display: none;
+    background-color: black;
+    border-radius: 6px;
+    opacity: 0.9;
+}
+
+.tooltip .tooltiptext {
+  text-align: center;
+  font-size: 14px;
+  color: white;
+}
+
+div {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+h1 {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+h4 {
+    padding-left: 10px;
 }
